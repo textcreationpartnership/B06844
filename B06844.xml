@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The orange gazette. With allowance. From Friday February 22. to Tuesday February 26. 1688/9.</title>
+            <title>Orange gazette (London, England : 1688). no. 15.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06844</idno>
+            <idno type="EEBO-CITATION">60827773</idno>
+            <idno type="OCLC">ocm 60827773</idno>
+            <idno type="VID">182464</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06844)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182464)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[77])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The orange gazette. With allowance. From Friday February 22. to Tuesday February 26. 1688/9.</title>
+                  <title>Orange gazette (London, England : 1688). no. 15.</title>
+                  <author>Curtis, Jane, fl. 1680.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.C. near Fleet-Bridge.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688/9.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"J.C." is probably Jane Curtis, wife of Langly Curtis, booksellers at various addresses "near Fleet-Bridge" who were frequently in trouble with the authorities. Cf. H.R. Plomer.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>William --  III, --  King of England, 1650-1702.</term>
+               <term>Avaux, --  comte d', 1640-1709.</term>
+               <term>Great Britain --  Politics and government --  Revolution of 1688 --  Periodicals.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:182464:1" rendition="simple:additions"/>
+            <head>Numb. 15 The Orange Gazette.</head>
+            <head type="sub">WITH ALLOWANCE.</head>
+            <head type="sub">From <hi>Friday</hi> February 22. to <hi>Tueſday</hi> February 26. 1688/9.</head>
+            <div type="part">
+               <head>
+                  <hi>Paris, Febr.</hi> 26.</head>
+               <p>THis Afternoon the <hi>French</hi> King ſet for<g ref="char:EOLhyphen"/>wards from <hi>Verſailles,</hi> accompanied with the Abdicated King of <hi>England,</hi> in or<g ref="char:EOLhyphen"/>der to viſit his Maritime Towns in <hi>Nor<g ref="char:EOLhyphen"/>mandy</hi> and <hi>Picardy,</hi> taking with him his ableſt Engineers, to ſtrengthen and build Forts on the Coaſt, to prevent, if poſſible, any Deſcent, which he fears will be made upon the Country the enſuing War. And 'tis diſcourſed at Court, that ſo ſoon as his Majeſty has reviewed thoſe Provinces, he will go in Perſon at the Head of 80000 Men into <hi>Flanders,</hi> to act both againſt the <hi>Spaniard</hi> and <hi>Dutch.</hi> Already the Dauphin has directions to haſten with 30000 Men thitherwards, and take along with him for his Aſſiſt<g ref="char:EOLhyphen"/>ance the Mareſchals <hi>de Humieres,</hi> and <hi>de Duras,</hi> with inſtruction that he attempt no conſiderable Action without their approbation and advice.</p>
+               <p>The King alſo appointed Monſieur the Duke of <hi>Or<g ref="char:EOLhyphen"/>leans</hi> his Brother to move with a conſiderable Force to the <hi>Rhine,</hi> and that the Mareſchals <hi>Luxemburgh, de Lorge</hi> and <hi>Bellefonds</hi> attend him thither. The Lord <hi>Dunbar<g ref="char:EOLhyphen"/>ton,</hi> 'tis ſaid, will be made a Mareſchal of <hi>France,</hi> and Command ſome part of the Army; he with Colonel <hi>Sarsfield</hi> and other Officers, reported to be gone and Landed in <hi>Ireland,</hi> are at preſent here: And upon the return of the Kings from <hi>Picardy,</hi> there is to be an Ex<g ref="char:EOLhyphen"/>traordinary Council to carry on this Summers Expe<g ref="char:EOLhyphen"/>dition; and 'tis believed the late King of <hi>England</hi> will be admitted therein.</p>
+               <p>
+                  <hi>Ditto.</hi> Two days before the <hi>French</hi> King ſet for<g ref="char:EOLhyphen"/>ward on his Journey, diſpatched away Count <hi>de Avaux,</hi> his late Ambaſſador in <hi>Holland,</hi> on ſome ſecret Undertaking. And there be thoſe at Court who con<g ref="char:EOLhyphen"/>clude, that he goes for <hi>Holland,</hi> to propoſe an Accom<g ref="char:EOLhyphen"/>modation: But ſhould it happen to be true, the <hi>States General</hi> are too wiſe a People at this Juncture to hearken to any Overtures of that Nature, well know<g ref="char:EOLhyphen"/>ing, <hi>That his Gallick Majeſty, who made War for his Glory, would not offer Peace to his ſhame, if he were ſenſible he could reſiſt the powerful Torrent of all Chriſtendom, his avowed Enemies that were breaking in upon him.</hi> Since alſo the Prince of <hi>Orange,</hi> (now King of <hi>England</hi>) which has done ſuch a glorious Work for the <hi>Britiſh</hi> Nation, by reſcuing it from POPERY and SLAVERY, will undoubtedly perform the like to <hi>France,</hi> in con<g ref="char:EOLhyphen"/>junction with the <hi>Confederates,</hi> reſtore his Highneſs of <hi>Lorrain</hi> to his Dukedom moſt unjuſtly deprived, the <hi>Elector Palatine</hi> to his Principalities, all <hi>Germany</hi> to their rightful Princes, (the Principaltiy of <hi>Orange</hi> to the Crown of <hi>England</hi>) the <hi>French</hi> Nobility and Parliaments of that Kingdom to their ancient Splen<g ref="char:EOLhyphen"/>dor, aboliſh the Gabels and prodigious Number of Taxes thoſe miſerable People labour under, uninſlave the Peaſants, re-edifie the Proteſtant Churches, con<g ref="char:EOLhyphen"/>firm the Edict of <hi>Nants,</hi> and reſtore the true and an<g ref="char:EOLhyphen"/>cient <hi>Gallican</hi> Liberties; and 'tis not in the leaſt to be doubted theſe things being premiſed, but the People of that Kingdom will, with the ſame aſſurance, en<g ref="char:EOLhyphen"/>deavor to accompliſh the Work, as thoſe of <hi>England</hi> have done before them.</p>
+               <p>
+                  <hi>Ditto.</hi> The Dauphineſs ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t to the late Queen of <hi>England</hi> to deſire her to remove from her Apartment at <hi>Marli,</hi> and bring the Child ſhe calls the Prince of <hi>Wales</hi> along with her to <hi>Verſailles;</hi> to be near her, du<g ref="char:EOLhyphen"/>ring the Abſence of the Court. The late King has made the Count <hi>De Loſun,</hi> who came lately in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to Fight againſt the Prince of <hi>Orange,</hi> Steward of his Houſhold: And his late Majeſty has diſpatched Mr. <hi>Skelton</hi> to the Emperor, to ſignifie his Misfortune Another Gentleman to the Pope, to endeavour to Compremize Matters between his Holineſs and the <hi>French</hi> King: But ſome believe it would have been more for his Intereſt, and ſaved Charges, to have kept them at home.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Plymouth, Febr.</hi> 15.</head>
+               <p>We having this Afternoon received Advice of the Princeſs of <hi>Oranges</hi>'s Landing at <hi>Whitehall</hi> from <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> fired 21 Guns from the City, and 9 from the Iſland, and as many from the <hi>Dover</hi> Frigot riding in Port, who ſails to morrow for <hi>Portſmouth,</hi> to Convoy the <hi>Mary</hi> Ketch of <hi>London, John Holmes</hi> Maſter, bound from <hi>New-England</hi> with Maſts for the Navy.</p>
+               <p>
+                  <hi>Ditto.</hi> The 19. The bleſſed News coming to us Yeſterday, that <hi>WILLIAM</hi> and <hi>MARY</hi> Prince and Princeſs of <hi>Orange</hi> were Proclaimed King and Queen of <hi>England,</hi> &amp;c. The Mayor, and Aldermen in their Formalities, with demonſtration of their Joy and Satisfaction, Drums beating, and Muſick play<g ref="char:EOLhyphen"/>ing before them, Proclaimed them alſo this Morning, firſt before the <hi>Guild-hall,</hi> then on the <hi>New Key</hi> by the <hi>Exchange,</hi> and afterwards at the <hi>Barbican;</hi> and advan<g ref="char:EOLhyphen"/>cing to the Gate of the Cittadel, acquainted the Go<g ref="char:EOLhyphen"/>vernour therewith, who immediately Fired all the Cannon planted about it: The Iſland Seconded him, and all the Ships were not wanting in doing the like, Diſplaying their Antients as a Signal of their Joy. This Day the Ship <hi>Ann</hi> of this Town, <hi>Henry Baſtee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Maſter, arrived here from <hi>Majorca,</hi> and Sailed away for <hi>London</hi> forth-with. The <hi>French</hi> Banker of <hi>Havre-de-grace</hi> ſome time detained, was cleared, and Sailed away for that Port. Some Perſons arriving here from that Place in <hi>France,</hi> Reports, That a very great Con<g ref="char:EOLhyphen"/>ſternation is all over the Country, upon the News of the Prince of <hi>Orange</hi> being likely to be King of <hi>England,</hi> inſomuch, that 1000 Men are Night and Day at Work to ſtrengthen our Fortifications, and more Cannon will be ſent to plant upon them.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Brumingham, Febr.</hi> 14.</head>
+               <p>This being our Market day, Mrs. <hi>Richardſon,</hi> Houſe<g ref="char:EOLhyphen"/>keeper to Mr. <hi>Hicks</hi> Schoolmaſter in this Town, who has a great many Noblemen and Gentlemens Sons to Educate, bought 22 <hi>l.</hi> of Butter of a <hi>Popiſh</hi> Woman Higler, Tenant to our late <hi>Popiſh</hi> High-Sheriff <hi>Sh—</hi> Eſq; and carrying the ſame home to expend in the Family, cut one Pound thereof, and perceiving it diſ<g ref="char:EOLhyphen"/>coloured with yellow and green ſpots, ſhewed it to an Apothecary, who was of opinion it was poyſoned; which to prove, ſent for two Dogs, and gave each the quantity of a Nutmeg, and they both died within 10 and 14 minutes one of another. The Woman eſ<g ref="char:EOLhyphen"/>caped out of Town for the preſent, but we hear ſhe is ſince apprehended for the ſame.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Black heath, Febr.</hi> 28.</head>
+               <p>This Morning his Majeſty came early hither to view the Battalions deſign'd for <hi>Holland;</hi> and gave them his
+<pb facs="tcp:182464:2"/>Thanks for the good Service they had rendred him in <hi>England,</hi> ordering them, purſuant to the deſire of the Honourable Houſe of Commons, a large Donative or Reward, which I am informed is in this following Proportion, a Colonel 200 l. A Lientenant Colonel 150, a Major 100 l. a Captain 75 l. a Lieutenant 50. an Enſign 25 l. a Serjeant 12l. and every private Cen<g ref="char:EOLhyphen"/>tinel 50 Shillings. The Horſe and Foor are Em<g ref="char:EOLhyphen"/>barquing at <hi>Greenwich,</hi> and will Sail away forth<g ref="char:EOLhyphen"/>with.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Hampton Court, Febr.</hi> 23.</head>
+               <p>This Afternoon their Majeſties arrived here from <hi>Whitehall,</hi> deſigning to remain in this place till Tueſ<g ref="char:EOLhyphen"/>day morning, taking a great good liking to the ſcitu<g ref="char:EOLhyphen"/>ation and ſalubriouſneſs of the Air, and walked out with Sir <hi>Chriſtopher Wren</hi> to view the Building, in order to make ſome Rep<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n therein. The next day their Majeſties hear<g ref="char:punc">▪</g> Dr. <hi>Ll<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yd,</hi> Biſhop of St. <hi>Aſaph,</hi> preach a Sermon in the Chappel. In the Afternoon His Ma<g ref="char:EOLhyphen"/>jeſty rode out into <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Park, and being a glorious day alighted, and walked ſome conſiderable way on Foot. Sir. <hi>Heary Hubbart</hi> this day kiſſed His Majeſties Hand, in order to <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Gentleman of the Horſe, the Heer <hi>Overkerk</hi> being Maſter thereof.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>London, Febr.</hi> 25.</head>
+               <p>This day we received a <hi>Spaniſh</hi> Poſt, which ſays, that the Queen of <hi>Spain</hi> was dead, to the great Regret of the Court. A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that the King had order'd the new <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ing of 4000 Foot, and 1000 Horſe. And that 30 M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n of War, beſides their G<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ies, be forthwith Equipped, to Cruiſe in the <hi>Mediterranean.</hi> And that a Declaration of War againſt <hi>Fra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi> was in the Preſs at <hi>Madrid,</hi> and already all <hi>French</hi> Effects order'd to be ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iz<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> that Kingdom.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Francfort, Febr.</hi> 24.</head>
+               <p>The <hi>French</hi> has dec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ared and made out a Liſt of 250 Towns, Burghs and Villages, and added above 40 more to them, which they deſign to deſtroy on both ſides the <hi>Rhine,</hi> all the Villages about <hi>Manheime</hi> being included, have Orders to remove their Effects in order thereunto. The Elector of <hi>Brandenburgh</hi> ha<g ref="char:EOLhyphen"/>ving received Advice from his Miniſter at <hi>Ratisbonne,</hi> that the Dyer had fully reſolved on a War againſt <hi>France,</hi> order'd all his Forces, particularly thoſe in <hi>Cologne</hi> to all upon the <hi>French</hi> in any Quarter, by way of Reprizal, for the damage done by them in the Durchy of <hi>Juliers,</hi> and Land of <hi>Bergues.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Brugz in Switzerland, Febr.</hi> 9.</head>
+               <p>The <hi>French</hi> having left off Fortifying of <hi>Greenezack</hi> during the Aſſembly of the Cantons at <hi>Baden,</hi> had fal<g ref="char:EOLhyphen"/>len to work again upon the ſeparating of the Dyet; whereupon the Cantons of <hi>Baſle</hi> finding themſelves block'd up, repreſented to the General Aſſembly how prejudicial it would be to their City in particular, and all <hi>Switzerland</hi> in general: ſo they have unani<g ref="char:EOLhyphen"/>mouſly in the Aſſembly come to a Reſolution to ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the ſaid Citadel before it be advanced any further, and alſo the Fortification the <hi>French</hi> have made at <hi>Huninghen;</hi> And that they will execute this their Reſolution by Force of Arms, except the <hi>French</hi> King, upon their Application to him, will demoliſh them himſelf. And both the Evangelick and Catholick Cantons are very Unanimous therein, <hi>Zurick</hi> having already got together 6000 Men with Gannon, their Quota of Forces, in a readineſs to march upon the firſt occaſion.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Whitehall, Febr.</hi> 23.</head>
+               <p>I am credibly aſſured, That his Majeſty hath ap<g ref="char:EOLhyphen"/>pointed their Graces the Dukes of <hi>Norfolk</hi> and <hi>Ormond,</hi> Earl of <hi>Oxford,</hi> Viſcount <hi>Mordant,</hi> Lords <hi>Churchill</hi> and <hi>Lumley,</hi> with the Heer <hi>Benting,</hi> to be Lords of his Bed-Chamber: And the Earl of <hi>Carberry,</hi> Admiral <hi>Herbert,</hi> Sir <hi>Tho. Lee,</hi> Sir <hi>John Louther,</hi> Sir <hi>Michael Wharton,</hi> Sir <hi>John Chickley,</hi> and Mr. <hi>Sacheveril</hi> be Lords of the Admiralty: But the Judges, Treaſury, and Commiſſioners for the Great Seal, are not affixt, Peo<g ref="char:EOLhyphen"/>ple only Diſcourſing what theis Phanſies encline them to in the Matter.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>St. James's Square, Febr.</hi> 23.</head>
+               <p>This Evening <hi>George</hi> Lord <hi>Savil,</hi> Younger Son of the Marquis <hi>Hallifax</hi> departed this Life, after ſome days of Sickneſs, to the great Regret of that Honou<g ref="char:EOLhyphen"/>rable Family, being a very Knowing and Promiſing Gentleman.</p>
+            </div>
+            <div type="adverts_for_medicines_quacks_topical_playing_cards_and_Puritan_treatises">
+               <head>Advertiſements.</head>
+               <p>☞ This is to give Notice, That there is a ſmall Number yet to be Sold of <hi>Caryll</hi>'s Expoſition of <hi>JOB</hi> in Two large Volumes, Bound 40 s. Likewiſe a ſmall Number of <hi>Pool</hi>'s <hi>Synopſis</hi> on the New Teſtament in <hi>Latin,</hi> in Two large Volumes, was Printed above the Sets, for the Benefit of young Divines, are now ſold very cheap, the two Volumes in Quires 20 s. and well Bound 30 s. Likewiſe thoſe that want the whole Sets, or odd Volumes, may be ſupplied by <hi>William Marſhall</hi> at the <hi>Bible</hi> in <hi>Newgate-ſtreet,</hi> where thoſe that have the Firſt or Second Volume of the Old Teſtament of the <hi>Synopſis,</hi> may receive money for them, or have them ſupplied. Where you may likewiſe be ſupplied with Dr. <hi>Owen</hi>'s late pieces, <hi>The True Nature of a Goſpel Church and its Government:</hi> And his Treatiſe of <hi>Sin and Grace.</hi> And Mr. <hi>Knowles</hi>'s Expoſition on the whole Book of the <hi>Revelations.</hi>
+               </p>
+               <p>☞ A Pack of Cards, repreſenting, in lively Cuts, the Hiſtory of the late Times; as of King <hi>William</hi>'s coming to <hi>England.</hi> The Memorials and Invitation by the Nobility. His whole Expedition. The Tryals of the Biſhops. The Birth of the Child. The Earl of <hi>Eſſex</hi>'s Death. Made and Sold by <hi>W. Bayley</hi> at the Sign of the <hi>Knave of Clubs</hi> at the <hi>Bridge Foot</hi> in <hi>Southwark.</hi> And likewiſe Sold by Mr. <hi>Vincent</hi> at the <hi>Temple gate,</hi> Mr. <hi>Mortlock</hi> in <hi>Weſtminſter-Hall,</hi> Mrs. <hi>Faltam</hi> at the <hi>Parliament ſtairs,</hi> Mr. <hi>Scarſmeare</hi> in <hi>Cornhil,</hi> and moſt Bookſellers at 12 <hi>d</hi> a Pack.</p>
+               <p>☞ Theſe are to give Notice to all Perſons, That in <hi>Grays Inn-Lane,</hi> in <hi>Plow-Yard,</hi> lives Dr. <hi>Thomas Kirleus</hi> a Collegiate Phyſician, and his Late Maje<g ref="char:EOLhyphen"/>ſties ſworn Phyſician in Ordinary, who with a Drink and gentle Pill, hindring no Buſineſs, Cures all Scabs, Scurffs, Itch, Kings-Evil, Leproſie, and Venereal Diſeaſe, expecting nothing if he cures not. Of the laſt he hath Cured above 500 Perſons in this City many after Fluxing. It quickly and ſafely Cures the Running of the Reins, tho' with Sores and Swellings, which to do with Mercury is dangerous, if not deadly. He uſeth outward means to all. The Drink is 3 <hi>s.</hi> a Quart. The Pills 1 s. a Box, which is Two Purges. They excel all Purges, in clean<g ref="char:EOLhyphen"/>ſing all Impurities, and ſo prevent and cure many Diſeaſes, and infallibly the Gout and Stone, if taken as he ſhall direct. He gives his Opinion to all for nothing, and his Medicines for little, but to the Poor for Thanks.</p>
+               <p>☞ Theſe are to give Notice to all Perſons, for the Be<g ref="char:EOLhyphen"/>nefit of the Publick Good, That Mr. <hi>Elmy,</hi> Profeſſor of Phyſick, and Operator, of known Integrity, and above 25 Years Practice, Liveth at the <hi>Blue Ball</hi> in <hi>Whalebone</hi> Court, at the Lower End of <hi>Bartholomew Lane,</hi> by the <hi>Royal Exehange.</hi> Who moſt Safely and Expeditiouſly Cures <hi>Deafneſs,</hi> and <hi>Noiſes of the Ears</hi> in any, of what Age ſoever, (if Curable) and at firſt ſight, by Inſpection, reſolver the Patient if ſo or not, as moſt Eminent Perſons of Quality in this City can Juſtiſie. He hath likewiſe an Expeditious way in Curing all Pains of the Teeth, without Drawing. He hath likewiſe a moſt excellent Gar<g ref="char:EOLhyphen"/>gariſm or Mouth-water, which Cures any Canker, Ulcer, or Scurvy in the Mouth, faſtning looſe Teeth, and making black ones as white as Ivory. His Pills only prepared for the <hi>French</hi> Diſeaſe, and the Run<g ref="char:EOLhyphen"/>ning of the Reins, may be had in Boxes of ſeveral Prices, with other <hi>Venereal Arcana's,</hi> as occaſion re<g ref="char:EOLhyphen"/>quire, with Directions.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. C.</hi> near <hi>Fleet-Bridge.</hi> 1688/9.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
